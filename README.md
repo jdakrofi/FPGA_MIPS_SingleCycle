@@ -1,4 +1,4 @@
-A 16-bit single cyle MIPS processor is implement in Verilog in this project. MIPS is a widely used Reducded Instruction Set Computer (RISC) processor based on the RISC instruction set and Havard-typ data path structure.
+A 16-bit single cyle MIPS processor is implement in Verilog in this project along with an associated testbench file. MIPS is a widely used Reducded Instruction Set Computer (RISC) processor based on the RISC instruction set and Havard-typ data path structure.
 
 Below is a RTl schematic of the MIPS process
 
