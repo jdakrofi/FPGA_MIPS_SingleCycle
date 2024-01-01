@@ -3,3 +3,5 @@ A 16-bit single cyle MIPS processor is implement in Verilog in this project alon
 Below is a RTl schematic of the MIPS process
 
 ![mips_16 rtl schematic](https://github.com/jdakrofi/FPGA_MIPS_SingleCycle/assets/110293638/0ad4b17d-27ca-4a75-8933-911545688fab)
+
+The code in this project is based entirely on the following tutorial (https://www.fpga4student.com/2017/01/verilog-code-for-single-cycle-MIPS-processor.html)
